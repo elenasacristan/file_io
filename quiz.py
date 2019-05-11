@@ -1,4 +1,4 @@
-f = open('data.txt','r')
+f = open('/home/ubuntu/workspace/files/relative_data.txt','r')
 # lines = f.readlines()
 lines = f.read()
 f.close()
